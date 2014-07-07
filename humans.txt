@@ -1,0 +1,17 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    <name: Arsal Khan> -- <role: UI/UX Designer and Wordpress Developer> -- <web: arsalkhan.co | linkedin: arsalkyusufzai | skype: arsalkyusufzai>
+
+# THANKS
+
+    <name>
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery, Modernizr, Lorem
+    SCSS, Compass
+    Bootstrap
